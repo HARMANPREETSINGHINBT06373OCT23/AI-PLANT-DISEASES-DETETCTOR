@@ -8,8 +8,7 @@ A simple deep learning-powered web application for detecting common plant diseas
 
 > ⚠️ *This app is a learning project and not intended for professional or agricultural diagnostic use.*
 
-🌐 Try the app (if deployed on Streamlit Cloud or Vercel):  
-**[Click here to open](https://your-deployment-url.streamlit.app)**
+
 
 ---
 
